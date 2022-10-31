@@ -1,9 +1,10 @@
 # sql-challenge
 I have copmletined the cahllange including the bonous.
-In the submission there are two sql files. 
+In the submission there are two sql files and one python note book. 
     data base creation- schema.sql - this file has schema creation .
     pg data Analysis-Queries.sql - this file has sql queries.
     SQL bonus.ipynb - this file has bonous excercies.
+note that in the employees csv date were not in correct formate so i have use the python code to fix the date format and created new version of employees file(employees2.csv) and used this file for sql import .
 
 conculsion -
 1.  salary data look skewed. it does not follow bell curve and salary start from 40,000.
